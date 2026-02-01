@@ -6,4 +6,4 @@ I enjoy working on interesting projects, though most of them don't end up here o
 
 I usually write my programs in C++ or Python, but I am open to trying new things!
 
-My biggest project is probably [BFIL](https://www.github.com/mayedl10/bfil), but my simple [math expression evaluator](https://github.com/Mayedl10/math-expression-evaluator/) is better represents my current coding abilities.
+My biggest project is probably [BFIL](https://www.github.com/mayedl10/bfil), but my simple [math expression evaluator](https://github.com/Mayedl10/math-expression-evaluator/) better represents my current coding abilities.
